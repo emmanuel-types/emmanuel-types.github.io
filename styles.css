@@ -398,19 +398,23 @@ button {
 @media (max-width: 650px) {
   .button-open-nav {
     display: block;
+    color: rgb(31, 29, 29);
   }
 
   .main {
     flex-direction: column;
+    color: rgb(31, 29, 29);
   }
 
   .nav {
     width: 100%;
     display: none;
+    color: rgb(31, 29, 29);
   }
 
   .project-preview {
     width: 100%;
+    color: rgb(31, 29, 29);
   }
 
   .right-task-panel {
