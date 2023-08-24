@@ -416,5 +416,6 @@ button {
   .right-task-panel {
     justify-content: flex-end;
     max-width: 33%;
+    color: rgb(31, 29, 29);
   }
 }
